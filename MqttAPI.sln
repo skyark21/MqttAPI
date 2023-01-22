@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MqttAPI", "MqttAPI\MqttAPI.csproj", "{ADB60E4B-F39F-4330-AF2D-F34AE95DCE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADB60E4B-F39F-4330-AF2D-F34AE95DCE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADB60E4B-F39F-4330-AF2D-F34AE95DCE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADB60E4B-F39F-4330-AF2D-F34AE95DCE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADB60E4B-F39F-4330-AF2D-F34AE95DCE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF3EBC40-6BB2-4B3C-AAA1-D1D6C62F2BB6}
+	EndGlobalSection
+EndGlobal
